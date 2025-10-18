@@ -1,5 +1,16 @@
 # 🦓 Africa - Wildlife Discovery App 
-A beautiful SwiftUI app to explore the fascinating wildlife of Africa, featuring animals, national parks, and videos. 🌍  
+A beautiful SwiftUI app to explore the fascinating wildlife of Africa, featuring animals, national parks, and videos. 🌍   
+
+
+
+
+
+  
+  
+![Image Alt](https://github.com/Tamomarvin74/Africa/blob/e825799d11269a81f931e72a8beb3bb12c0cb56a/cover-lion.jpg)  
+
+
+  
 ## ✨ Features
 🐆 Animal Gallery - Browse through a collection of African animals with stunning images
 
