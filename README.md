@@ -37,7 +37,11 @@ Interactive map of national parks 🌍
 
 Customizable gallery layout ⚙️
 
-Smooth animations and transitions ✨
+Smooth animations and transitions ✨  
+
+![Image Alt](https://github.com/Tamomarvin74/Africa/blob/bcf112d3d34ee6ef54844080139966e0ef96044b/%20Wild.png)
+
+
 
 
 
